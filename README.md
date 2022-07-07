@@ -24,7 +24,8 @@ I am a final year student in Computer Science and Engineering (CSE) who loves to
 - ⚡ Available for internship opportunities.
 - 😄 Pronouns: He/Him 
 
-| <a href="https://github.com/SayanSahu99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SayanSahu99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sayan's github stats" /></a> | <a href="https://github.com/SayanSahu99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanSahu99&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/SayanSahu99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SayanSahu99&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sayan's github stats" /></a> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SayanSahu99&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)| <a href="https://github.com/SayanSahu99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanSahu99&layout=compact&theme=buefy&hide_border=true" /></a> |
+	
 | ------------- | ------------- |
 
 #### Pinned
