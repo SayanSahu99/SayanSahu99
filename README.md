@@ -1,4 +1,5 @@
-# SayanSahu99
+# <div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/SayanSahu99/SayanSahu99/blob/main/waving.gif">, I'm Sayan Sahu</h1>
 
 <p align="center">
 	<!-- <a href="https://github.com/SayanSahu99"><img src="https://img.shields.io/github/followers/SayanSahu99?label=GitHub&style=social" alt="GitHub"></a> -->
