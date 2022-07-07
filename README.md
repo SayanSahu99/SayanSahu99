@@ -13,3 +13,12 @@
 	<a href="mailto:sayansovan@gmail.com"><img src="https://img.shields.io/badge/-sayansovan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 	
 </p>
+
+Hi there 
+I am a final year student in Computer Science and Engineering (CSE) who loves to transform ideas into reality using code.
+
+
+- 🔭 I’m currently working on [StayFit](https://github.com/SayanSahu99/StayFit-ReactNative).
+- 🌱 I’m currently learning DSA, Machine Learning, Web Development.
+- ⚡ Available for internship opportunities.
+- 😄 Pronouns: He/Him 
