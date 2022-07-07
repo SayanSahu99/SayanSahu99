@@ -26,3 +26,26 @@ I am a final year student in Computer Science and Engineering (CSE) who loves to
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+	<!-- Pinned Repositories -->
+#### Pinned
+
+<p align="center">
+<a href="https://github.com/SayanSahu99/BetterCrypt">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SayanSahu99&repo=BetterCrypt&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SayanSahu99/sudoku-solver-gtk">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SayanSahu99&repo=sudoku-solver-gtk&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/SayanSahu99/EarBeats">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SayanSahu99&repo=EarBeats&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/SayanSahu99/Diabetes-Detection-AutoML">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=SayanSahu99&repo=Diabetes-Detection-AutoML&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
