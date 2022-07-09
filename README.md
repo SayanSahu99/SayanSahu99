@@ -23,8 +23,10 @@ I am a final year student in Computer Science and Engineering (CSE) who loves to
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SayanSahu99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SayanSahu99&theme=dark&hide_border=false)<br/>
+<p align="center"><img class="img" src="https://github-readme-stats.vercel.app/api?username=SayanSahu99&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></p>
+
+<p align="center"><img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanSahu99&theme=dark&hide_border=false"/></p>
+
 <p align="center"><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanSahu99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 
 ### 📌 Pinned
